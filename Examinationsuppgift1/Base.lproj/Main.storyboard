@@ -25,23 +25,32 @@
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="vFC-b8-CCj">
                                                 <rect key="frame" x="0.0" y="0.0" width="114.66666666666667" height="114.66666666666667"/>
                                                 <color key="backgroundColor" systemColor="systemBrownColor"/>
+                                                <fontDescription key="fontDescription" style="UICTFontTextStyleTitle1"/>
                                                 <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                                <state key="normal" title="Button"/>
-                                                <buttonConfiguration key="configuration" style="filled"/>
+                                                <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                                                <connections>
+                                                    <action selector="placeTokenOnBoard:" destination="BYZ-38-t0r" eventType="touchUpInside" id="h77-wt-tMK"/>
+                                                </connections>
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="KrQ-uO-a0u">
                                                 <rect key="frame" x="119.66666666666669" y="0.0" width="114.33333333333331" height="114.66666666666667"/>
                                                 <color key="backgroundColor" systemColor="systemBrownColor"/>
+                                                <fontDescription key="fontDescription" style="UICTFontTextStyleTitle1"/>
                                                 <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                                <state key="normal" title="Button"/>
-                                                <buttonConfiguration key="configuration" style="filled"/>
+                                                <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                                                <connections>
+                                                    <action selector="placeTokenOnBoard:" destination="BYZ-38-t0r" eventType="touchUpInside" id="b7g-5z-R4a"/>
+                                                </connections>
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="838-JB-0hJ">
                                                 <rect key="frame" x="239.00000000000003" y="0.0" width="114.66666666666666" height="114.66666666666667"/>
                                                 <color key="backgroundColor" systemColor="systemBrownColor"/>
+                                                <fontDescription key="fontDescription" style="UICTFontTextStyleTitle1"/>
                                                 <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                                <state key="normal" title="Button"/>
-                                                <buttonConfiguration key="configuration" style="filled"/>
+                                                <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                                                <connections>
+                                                    <action selector="placeTokenOnBoard:" destination="BYZ-38-t0r" eventType="touchUpInside" id="F4M-SN-zhY"/>
+                                                </connections>
                                             </button>
                                         </subviews>
                                     </stackView>
@@ -51,23 +60,32 @@
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="VEs-kh-fRS">
                                                 <rect key="frame" x="0.0" y="0.0" width="114.66666666666667" height="114.33333333333333"/>
                                                 <color key="backgroundColor" systemColor="systemBrownColor"/>
+                                                <fontDescription key="fontDescription" style="UICTFontTextStyleTitle1"/>
                                                 <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                                <state key="normal" title="Button"/>
-                                                <buttonConfiguration key="configuration" style="filled"/>
+                                                <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                                                <connections>
+                                                    <action selector="placeTokenOnBoard:" destination="BYZ-38-t0r" eventType="touchUpInside" id="dYy-C1-885"/>
+                                                </connections>
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="TQT-dV-tQ3">
                                                 <rect key="frame" x="119.66666666666669" y="0.0" width="114.33333333333331" height="114.33333333333333"/>
                                                 <color key="backgroundColor" systemColor="systemBrownColor"/>
+                                                <fontDescription key="fontDescription" style="UICTFontTextStyleTitle1"/>
                                                 <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                                <state key="normal" title="Button"/>
-                                                <buttonConfiguration key="configuration" style="filled"/>
+                                                <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                                                <connections>
+                                                    <action selector="placeTokenOnBoard:" destination="BYZ-38-t0r" eventType="touchUpInside" id="rZa-8h-qtA"/>
+                                                </connections>
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Lxw-wU-BbB">
                                                 <rect key="frame" x="239.00000000000003" y="0.0" width="114.66666666666666" height="114.33333333333333"/>
                                                 <color key="backgroundColor" systemColor="systemBrownColor"/>
+                                                <fontDescription key="fontDescription" style="UICTFontTextStyleTitle1"/>
                                                 <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                                <state key="normal" title="Button"/>
-                                                <buttonConfiguration key="configuration" style="filled"/>
+                                                <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                                                <connections>
+                                                    <action selector="placeTokenOnBoard:" destination="BYZ-38-t0r" eventType="touchUpInside" id="UtL-9r-lOx"/>
+                                                </connections>
                                             </button>
                                         </subviews>
                                     </stackView>
@@ -77,45 +95,83 @@
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="fyW-qh-ey6">
                                                 <rect key="frame" x="0.0" y="0.0" width="114.66666666666667" height="114.66666666666667"/>
                                                 <color key="backgroundColor" systemColor="systemBrownColor"/>
+                                                <fontDescription key="fontDescription" style="UICTFontTextStyleTitle1"/>
                                                 <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                                <state key="normal" title="Button"/>
-                                                <buttonConfiguration key="configuration" style="filled"/>
+                                                <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                                                <connections>
+                                                    <action selector="placeTokenOnBoard:" destination="BYZ-38-t0r" eventType="touchUpInside" id="iNG-zP-FPe"/>
+                                                </connections>
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="X2M-c3-pJW">
                                                 <rect key="frame" x="119.66666666666669" y="0.0" width="114.33333333333331" height="114.66666666666667"/>
                                                 <color key="backgroundColor" systemColor="systemBrownColor"/>
+                                                <fontDescription key="fontDescription" style="UICTFontTextStyleTitle1"/>
                                                 <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                                <state key="normal" title="Button"/>
-                                                <buttonConfiguration key="configuration" style="filled"/>
+                                                <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                                                <connections>
+                                                    <action selector="placeTokenOnBoard:" destination="BYZ-38-t0r" eventType="touchUpInside" id="4yB-Ds-w9u"/>
+                                                </connections>
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="RWH-qK-Ec7">
                                                 <rect key="frame" x="239.00000000000003" y="0.0" width="114.66666666666666" height="114.66666666666667"/>
                                                 <color key="backgroundColor" systemColor="systemBrownColor"/>
+                                                <fontDescription key="fontDescription" style="UICTFontTextStyleTitle1"/>
                                                 <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                                <state key="normal" title="Button"/>
-                                                <buttonConfiguration key="configuration" style="filled"/>
+                                                <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                                                <connections>
+                                                    <action selector="placeTokenOnBoard:" destination="BYZ-38-t0r" eventType="touchUpInside" id="FVF-aK-Wlh"/>
+                                                </connections>
                                             </button>
                                         </subviews>
                                     </stackView>
                                 </subviews>
-                                <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <color key="backgroundColor" red="0.4587178181127175" green="0.38754608267948176" blue="0.28575248765580008" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                 <constraints>
                                     <constraint firstAttribute="width" secondItem="9yt-ER-S0Q" secondAttribute="height" multiplier="1:1" id="QoS-au-dKX"/>
                                 </constraints>
                             </stackView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Current Turn:" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="6CR-Uf-gcE">
+                                <rect key="frame" x="138.66666666666666" y="160" width="115.66666666666666" height="24"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="20"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="X" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Tr9-cE-bZy">
+                                <rect key="frame" x="185.66666666666666" y="192" width="22" height="36"/>
+                                <fontDescription key="fontDescription" type="system" weight="heavy" pointSize="30"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                         <constraints>
+                            <constraint firstItem="Tr9-cE-bZy" firstAttribute="centerX" secondItem="6CR-Uf-gcE" secondAttribute="centerX" id="2ct-PB-UvN"/>
                             <constraint firstItem="9yt-ER-S0Q" firstAttribute="width" secondItem="8bC-Xf-vdC" secondAttribute="width" multiplier="0.9" id="2fg-mX-Vc3"/>
+                            <constraint firstItem="6CR-Uf-gcE" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="101" id="arI-ZK-gsE"/>
+                            <constraint firstItem="Tr9-cE-bZy" firstAttribute="top" secondItem="6CR-Uf-gcE" secondAttribute="bottom" constant="8" symbolic="YES" id="ifD-iD-OSe"/>
                             <constraint firstItem="9yt-ER-S0Q" firstAttribute="centerX" secondItem="6Tk-OE-BBY" secondAttribute="centerX" id="sdn-aP-jKb"/>
                             <constraint firstItem="9yt-ER-S0Q" firstAttribute="centerY" secondItem="6Tk-OE-BBY" secondAttribute="centerY" id="uTW-Gf-0DH"/>
+                            <constraint firstItem="6CR-Uf-gcE" firstAttribute="centerX" secondItem="6Tk-OE-BBY" secondAttribute="centerX" id="vPP-5t-r1X"/>
                         </constraints>
                     </view>
+                    <connections>
+                        <outlet property="BottomLeft" destination="fyW-qh-ey6" id="jLM-KD-vu0"/>
+                        <outlet property="BottomMiddle" destination="X2M-c3-pJW" id="39y-5Y-Fds"/>
+                        <outlet property="BottomRight" destination="RWH-qK-Ec7" id="OBq-DT-53r"/>
+                        <outlet property="CurrentTurnLabel" destination="Tr9-cE-bZy" id="izx-KW-3oa"/>
+                        <outlet property="Middle" destination="TQT-dV-tQ3" id="qYj-sn-sBh"/>
+                        <outlet property="MiddleLeft" destination="VEs-kh-fRS" id="Qug-CB-RYo"/>
+                        <outlet property="MiddleRight" destination="Lxw-wU-BbB" id="WmC-fU-5zl"/>
+                        <outlet property="UpperLeft" destination="vFC-b8-CCj" id="6Ml-TF-7Rg"/>
+                        <outlet property="UpperMiddle" destination="KrQ-uO-a0u" id="yH3-nE-sog"/>
+                        <outlet property="UpperRight" destination="838-JB-0hJ" id="Mv9-Ju-0hY"/>
+                        <outlet property="currentTurnLabel" destination="Tr9-cE-bZy" id="7Ku-kZ-zdH"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="132" y="-27"/>
+            <point key="canvasLocation" x="130.53435114503816" y="-27.464788732394368"/>
         </scene>
     </scenes>
     <resources>
